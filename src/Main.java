@@ -1,4 +1,5 @@
 public class Main {
+
     public static void main(String[] args) {
         int [] weight = new int [3];
         weight[0] = 1;
